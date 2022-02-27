@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+  min-height: 150vh;
+}
+
+.Lazy {
+  margin-top: 10px;
+  background-color: blue;
+  min-height: 100px;
+}
